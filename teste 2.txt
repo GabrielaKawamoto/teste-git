@@ -1,0 +1,17 @@
+O Git hub é uma plataforma de códigos online, utilizado para trabalhar em diversos projetos, também em conjunto com a equipe, e também pode ser utiliozado como um portfólio e perfil de projeto.
+Alguns códigos muito utilizados no Git hub:
+git pull: puxa o projeto do local remoto, ou seja da plataforma online para o local 
+git push: envia o trabalho do local para o remoto 
+git status: utilizado para atualizar o contepudo de alterações
+git clone: clona o projeto do remoto para o local
+git add "arquivo": add arquivos no projeto
+git commit -m "minha mensagem": comita - atualiza modificações no projeto
+git log: mostra todo o hitórico de commits
+
+Como enviar do local para o remoto:
+git init
+git add read.me
+git commit -m "primeiro commit"
+git branch -m master ou main
+git remote add origin: link
+git push -u origin master ou main
